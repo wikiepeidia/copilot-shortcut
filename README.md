@@ -1,8 +1,9 @@
 # copilot-shortcut
-a Shortcut to open Windows 10/11 Co-Pilot on desktop,etc besides taskbar.
+This shortcut opens Windows 10/11 Co-Pilot on the desktop and other locations besides the taskbar.
 
-# REQ:
-microsoft edge bloatware
-microSoft WEBview
-COPILOT WORKING (for WIN liTE you need to find a way to install it, ghost SPEDTRE is the best since it has TOOLBOX allows you to enable IT!)
-WIN 11 23h2+ 22621.28XX+
+
+# Requirements:
+- Microsoft Edge bloatware
+- Microsoft WebView
+- CoPilot working (for Windows Lite, you need to find a way to install it; Ghost SPEDTRE is the best option since it has a toolbox that allows you to enable it!)
+- Windows 11 23h2+ 22621.28XX+
